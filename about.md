@@ -21,6 +21,10 @@ When it comes to stuff outside the 9 to 5, Lee's got a whole universe of passion
 So, what does he do with this wild mix of skills? Everything, really! He's fixing up his jeep, crafting one-of-a-kind widgets for his D&D gang, working with AI to weave epic stories for Warhammer 40k campaigns, hand-making tools for the garden, designing baby toys, and tackling all sorts of off-the-wall, mind-bending projects. He's all about diving headfirst into tricky, unique problems (and trust me, he's no stranger to the school of hard knocks). But hey, that's how you learn, right?
 
 
+### External Press
+Some people I trust said it was important for me to put these links and references here, so.. here they are:
+
+
 ### Contact me
 
 [lee@sultgroup.com](mailto:lee@sultgroup.com)
