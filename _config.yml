@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/spydir
+  github: /spydir
   instagram:
   linkedin:
   pinterest:
@@ -72,8 +72,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
 
 # Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+# sass:
+#   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
