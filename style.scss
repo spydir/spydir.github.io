@@ -19,11 +19,8 @@ html {
 
 body {
 	background: $white;
-  // font: 18px/1.4 $helvetica;
-  // color: $darkGray;
-  font-size: 16px;
-  line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font: 18px/1.4 $hacker;
+  color: $darkGray;e;
 }
 
 .container {
@@ -34,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $hacker;
   color: $darkerGray;
   font-weight: bold;
 
@@ -197,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $hacker;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -216,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $hacker;
   font-size: 18px;
 
   @include mobile {
