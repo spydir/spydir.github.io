@@ -2,10 +2,6 @@
 layout: post
 title: Breaking into InfoSec
 ---
-date: 2023-05-25\
-title: breaking into infosec\
-author: spydir
-
 Hey folks, Lee here, and today we're diving headfirst into a topic that I get asked about a lot – breaking into the wild, wild west of the information security field. It's not a walk in the park, but with some elbow grease, curiosity, and a dash of daring, you can get way ahead of the other candidates. Let's dive in.
 
 First things first, let's chat about certifications. Sure, they might seem about as fun as a trip to the dentist, but trust me, they're _vital_ as you get started in this line of work. It's like going on a quest where each certification is a badge of honor, showing the world (and more importantly, employers) that you're investing in yourself and are interested in growing your skills. 
@@ -47,6 +43,10 @@ Want to experiment with a Synology Network Attached Storage (NAS) system? Go for
 
 The sky's the limit, and the best part is that you're learning by doing. Plus, it shows potential employers that you've got the drive and initiative to go beyond the call of duty. It's like having your cake and eating it too, but the cake is knowledge, and it's delicious.
 
-So there you have it, folks. Breaking into the information security field might seem daunting, but with the right mindset, resources, and a whole lot of perseverance, you'll be on your way to becoming a full-fledged infosec operator. Remember, it's not just about the certifications or the connections or the home lab. It's about the _passion_, the _curiosity_, and the _relentless drive_ to make the digital world a safer place. So get out there, make your mark, and most importantly, **have fun**! 
+So there you have it, folks. Breaking into the information security field might seem daunting, but with the right mindset, resources, and a whole lot of perseverance, you'll be on your way to becoming a full-fledged infosec operator. 
+
+Remember, it's not just about the certifications or the connections or the home lab. It's about the _passion_, the _curiosity_, and the _relentless drive_ to make the digital world a safer place. So get out there, make your mark, and most importantly, have fun! 
 
 Until next time, happy hacking!
+
+-spydir
