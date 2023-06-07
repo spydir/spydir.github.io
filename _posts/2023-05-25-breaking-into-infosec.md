@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Breaking into InfoSec
+tags:
+- Blog Post
+- Breaking into InfoSec
 ---
 Hey folks, Lee here, and today we're diving headfirst into a topic that I get asked about a lot – breaking into the wild, wild west of the information security field. It's not a walk in the park, but with some elbow grease, curiosity, and a dash of daring, you can get way ahead of the other candidates. Let's dive in.
 
